@@ -1,5 +1,5 @@
 
-        body {
+body {
             margin: 0;
             padding: 0;
             display: flex;
@@ -7,8 +7,8 @@
             align-items: center;
             min-height: 100vh;
             background-color: #f0f0f0;
-        }
-        .login {
+}
+.login {
             border: 1px solid black;
             width: 400px;
             height: 500px;
@@ -22,8 +22,9 @@
             display: flex;
             justify-content: center;
             align-items: center;
-        }
-        form {
+}
+
+form {
             box-sizing: border-box;
             padding: 40px;
             width: 100%;
@@ -34,21 +35,21 @@
             justify-content: center;
             align-items: center;
             gap: 20px;
-        }
-        h1 {
+}
+h1 {
             font-weight: normal;
             font-size: 24px;
             text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.5);
             margin-bottom: 20px;
-        }
-        table {
+ }
+table {
             color: rgba(255, 255, 255, 0.8);
             text-transform: uppercase;
             font-size: 10px;
             letter-spacing: 2px;
             text-align: center;
         }
-        input {
+input {
             background: rgba(255, 255, 255, 0.3);
             height: 40px;
             line-height: 40px;
@@ -57,8 +58,8 @@
             color: white;
             text-align: center;
             width: 80%;
-        }
-        button {
+ }
+button {
             background: rgba(45, 126, 231);
             height: 40px;
             line-height: 40px;
@@ -70,5 +71,5 @@
             font-size: 12px;
             text-transform: uppercase;
             width: 80%;
-            cursor: pointer;
-        }
+            cursor: pointer; 
+}
