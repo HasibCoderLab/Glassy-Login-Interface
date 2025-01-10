@@ -18,7 +18,7 @@ A beautifully designed login form with a frosted glass effect, centered alignmen
 
 ## How to Use
 1. Clone or download this repository.
-2. Place your desired background image in the project folder with the name `h.jfif`.
+2. Place your desired background image in the project folder with the name `Background.jfif`.
 3. Open the `index.html` file in your browser to view the login form.
 
 ## Folder Structure
@@ -31,7 +31,7 @@ project-folder/
 ```
 
 ## Customization
-- Replace `h.jfif` with your own background image for a personalized design.
+- Replace `Background.jfif` with your own background image for a personalized design.
 - Modify colors and styles in `style.css` to match your preferences.
 
 ## Credits
